@@ -7,6 +7,7 @@ My first repository
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/nakul30/hello-world/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
