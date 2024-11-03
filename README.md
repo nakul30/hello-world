@@ -21,12 +21,14 @@ My first repository
 ## Array
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nakul30/hello-world/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/nakul30/hello-world/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -45,4 +47,12 @@ My first repository
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
