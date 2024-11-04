@@ -56,4 +56,20 @@ My first repository
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
