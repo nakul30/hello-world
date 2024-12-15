@@ -26,6 +26,7 @@ My first repository
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/nakul30/hello-world/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nakul30/hello-world/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/nakul30/hello-world/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nakul30/hello-world/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -54,6 +55,7 @@ My first repository
 | ------- |
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nakul30/hello-world/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/nakul30/hello-world/tree/master/1917-maximum-average-pass-ratio) |
 | [2716-prime-subtraction-operation](https://github.com/nakul30/hello-world/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
@@ -133,4 +135,8 @@ My first repository
 | [1755-defuse-the-bomb](https://github.com/nakul30/hello-world/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nakul30/hello-world/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/nakul30/hello-world/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
