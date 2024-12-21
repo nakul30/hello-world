@@ -79,6 +79,7 @@ My first repository
 | ------- |
 | [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nakul30/hello-world/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/nakul30/hello-world/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ My first repository
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/nakul30/hello-world/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/nakul30/hello-world/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
