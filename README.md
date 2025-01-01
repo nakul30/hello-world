@@ -9,6 +9,7 @@ My first repository
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nakul30/hello-world/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/nakul30/hello-world/tree/master/2580-circular-sentence) |
 | [3451-string-compression-iii](https://github.com/nakul30/hello-world/tree/master/3451-string-compression-iii) |
@@ -132,6 +133,7 @@ My first repository
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
 ## Math
 |  |
