@@ -12,6 +12,7 @@ My first repository
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/nakul30/hello-world/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3451-string-compression-iii](https://github.com/nakul30/hello-world/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ My first repository
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nakul30/hello-world/tree/master/2554-minimum-total-distance-traveled) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nakul30/hello-world/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -135,6 +137,7 @@ My first repository
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
 | ------- |
