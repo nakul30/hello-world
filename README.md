@@ -10,6 +10,7 @@ My first repository
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nakul30/hello-world/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/nakul30/hello-world/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -106,6 +107,7 @@ My first repository
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -125,6 +127,7 @@ My first repository
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/nakul30/hello-world/tree/master/3394-minimum-array-end) |
@@ -138,6 +141,7 @@ My first repository
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/nakul30/hello-world/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
