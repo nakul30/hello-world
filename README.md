@@ -17,6 +17,7 @@ My first repository
 | [2465-shifting-letters-ii](https://github.com/nakul30/hello-world/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/nakul30/hello-world/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/nakul30/hello-world/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ My first repository
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nakul30/hello-world/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nakul30/hello-world/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nakul30/hello-world/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
@@ -229,4 +231,17 @@ My first repository
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/nakul30/hello-world/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
