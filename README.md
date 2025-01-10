@@ -8,6 +8,7 @@ My first repository
 | ------- |
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
+| [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nakul30/hello-world/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/nakul30/hello-world/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -39,6 +40,7 @@ My first repository
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nakul30/hello-world/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nakul30/hello-world/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/nakul30/hello-world/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/nakul30/hello-world/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nakul30/hello-world/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -117,6 +119,7 @@ My first repository
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
+| [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
