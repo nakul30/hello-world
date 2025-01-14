@@ -62,6 +62,7 @@ My first repository
 | [2691-count-vowel-strings-in-ranges](https://github.com/nakul30/hello-world/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nakul30/hello-world/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nakul30/hello-world/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nakul30/hello-world/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
@@ -129,6 +130,7 @@ My first repository
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nakul30/hello-world/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +149,7 @@ My first repository
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nakul30/hello-world/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/nakul30/hello-world/tree/master/3394-minimum-array-end) |
 ## Counting
