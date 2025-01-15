@@ -6,6 +6,7 @@ My first repository
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakul30/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
 | [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
@@ -26,6 +27,7 @@ My first repository
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakul30/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
 | [0494-target-sum](https://github.com/nakul30/hello-world/tree/master/0494-target-sum) |
@@ -182,6 +184,7 @@ My first repository
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nakul30/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
