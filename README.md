@@ -141,6 +141,7 @@ My first repository
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/nakul30/hello-world/tree/master/0460-lfu-cache) |
+| [0908-middle-of-the-linked-list](https://github.com/nakul30/hello-world/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -190,6 +191,7 @@ My first repository
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nakul30/hello-world/tree/master/0005-longest-palindromic-substring) |
+| [0908-middle-of-the-linked-list](https://github.com/nakul30/hello-world/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
