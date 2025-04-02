@@ -69,6 +69,7 @@ My first repository
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nakul30/hello-world/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nakul30/hello-world/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nakul30/hello-world/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nakul30/hello-world/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
