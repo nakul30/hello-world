@@ -60,6 +60,7 @@ My first repository
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/nakul30/hello-world/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nakul30/hello-world/tree/master/2465-shifting-letters-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nakul30/hello-world/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nakul30/hello-world/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nakul30/hello-world/tree/master/2554-minimum-total-distance-traveled) |
@@ -100,12 +101,14 @@ My first repository
 | [1917-maximum-average-pass-ratio](https://github.com/nakul30/hello-world/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nakul30/hello-world/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nakul30/hello-world/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/nakul30/hello-world/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/nakul30/hello-world/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/nakul30/hello-world/tree/master/0780-max-chunks-to-make-sorted) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nakul30/hello-world/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/nakul30/hello-world/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
@@ -195,6 +198,7 @@ My first repository
 | [0005-longest-palindromic-substring](https://github.com/nakul30/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0908-middle-of-the-linked-list](https://github.com/nakul30/hello-world/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nakul30/hello-world/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
