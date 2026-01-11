@@ -31,6 +31,7 @@ My first repository
 | [0005-longest-palindromic-substring](https://github.com/nakul30/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/nakul30/hello-world/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nakul30/hello-world/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/nakul30/hello-world/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/nakul30/hello-world/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nakul30/hello-world/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nakul30/hello-world/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -42,6 +43,7 @@ My first repository
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nakul30/hello-world/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/nakul30/hello-world/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nakul30/hello-world/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
@@ -82,6 +84,7 @@ My first repository
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nakul30/hello-world/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
@@ -206,6 +209,7 @@ My first repository
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nakul30/hello-world/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nakul30/hello-world/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nakul30/hello-world/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -214,6 +218,7 @@ My first repository
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nakul30/hello-world/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nakul30/hello-world/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nakul30/hello-world/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
