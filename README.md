@@ -50,6 +50,7 @@ My first repository
 | [0780-max-chunks-to-make-sorted](https://github.com/nakul30/hello-world/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/nakul30/hello-world/tree/master/1063-best-sightseeing-pair) |
+| [1395-minimum-time-visiting-all-points](https://github.com/nakul30/hello-world/tree/master/1395-minimum-time-visiting-all-points) |
 | [1524-string-matching-in-an-array](https://github.com/nakul30/hello-world/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nakul30/hello-world/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nakul30/hello-world/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -192,6 +193,7 @@ My first repository
 ## Math
 |  |
 | ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/nakul30/hello-world/tree/master/1395-minimum-time-visiting-all-points) |
 | [2716-prime-subtraction-operation](https://github.com/nakul30/hello-world/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nakul30/hello-world/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -292,4 +294,8 @@ My first repository
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nakul30/hello-world/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/nakul30/hello-world/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
