@@ -77,6 +77,7 @@ My first repository
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nakul30/hello-world/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nakul30/hello-world/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/nakul30/hello-world/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/nakul30/hello-world/tree/master/3429-special-array-i) |
@@ -119,6 +120,7 @@ My first repository
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nakul30/hello-world/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/nakul30/hello-world/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nakul30/hello-world/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/nakul30/hello-world/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
