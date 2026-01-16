@@ -78,6 +78,7 @@ My first repository
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nakul30/hello-world/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/nakul30/hello-world/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/nakul30/hello-world/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nakul30/hello-world/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nakul30/hello-world/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/nakul30/hello-world/tree/master/3429-special-array-i) |
@@ -153,6 +154,7 @@ My first repository
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nakul30/hello-world/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nakul30/hello-world/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 ## Linked List
 |  |
 | ------- |
@@ -302,4 +304,8 @@ My first repository
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/nakul30/hello-world/tree/master/1395-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nakul30/hello-world/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
