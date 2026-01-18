@@ -50,6 +50,7 @@ My first repository
 | [0780-max-chunks-to-make-sorted](https://github.com/nakul30/hello-world/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/nakul30/hello-world/tree/master/1063-best-sightseeing-pair) |
+| [1311-largest-magic-square](https://github.com/nakul30/hello-world/tree/master/1311-largest-magic-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/nakul30/hello-world/tree/master/1395-minimum-time-visiting-all-points) |
 | [1524-string-matching-in-an-array](https://github.com/nakul30/hello-world/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nakul30/hello-world/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -90,6 +91,7 @@ My first repository
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nakul30/hello-world/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/nakul30/hello-world/tree/master/0733-flood-fill) |
+| [1311-largest-magic-square](https://github.com/nakul30/hello-world/tree/master/1311-largest-magic-square) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nakul30/hello-world/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -189,6 +191,7 @@ My first repository
 ## Prefix Sum
 |  |
 | ------- |
+| [1311-largest-magic-square](https://github.com/nakul30/hello-world/tree/master/1311-largest-magic-square) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nakul30/hello-world/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
