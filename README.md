@@ -85,6 +85,7 @@ My first repository
 | [3429-special-array-i](https://github.com/nakul30/hello-world/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nakul30/hello-world/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nakul30/hello-world/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/nakul30/hello-world/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3763-separate-squares-i](https://github.com/nakul30/hello-world/tree/master/3763-separate-squares-i) |
 ## Matrix
 |  |
@@ -182,6 +183,7 @@ My first repository
 | [2792-neighboring-bitwise-xor](https://github.com/nakul30/hello-world/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nakul30/hello-world/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/nakul30/hello-world/tree/master/3394-minimum-array-end) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/nakul30/hello-world/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Counting
 |  |
 | ------- |
