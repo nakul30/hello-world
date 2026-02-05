@@ -86,6 +86,7 @@ My first repository
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nakul30/hello-world/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nakul30/hello-world/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/nakul30/hello-world/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3651-transformed-array](https://github.com/nakul30/hello-world/tree/master/3651-transformed-array) |
 | [3763-separate-squares-i](https://github.com/nakul30/hello-world/tree/master/3763-separate-squares-i) |
 ## Matrix
 |  |
@@ -253,6 +254,7 @@ My first repository
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nakul30/hello-world/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/nakul30/hello-world/tree/master/3651-transformed-array) |
 ## Tree
 |  |
 | ------- |
