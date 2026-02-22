@@ -175,6 +175,7 @@ My first repository
 ## Bit Manipulation
 |  |
 | ------- |
+| [0899-binary-gap](https://github.com/nakul30/hello-world/tree/master/0899-binary-gap) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
