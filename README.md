@@ -17,6 +17,7 @@ My first repository
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nakul30/hello-world/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nakul30/hello-world/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/nakul30/hello-world/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nakul30/hello-world/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nakul30/hello-world/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
@@ -61,6 +62,7 @@ My first repository
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nakul30/hello-world/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/nakul30/hello-world/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/nakul30/hello-world/tree/master/1940-maximum-xor-for-each-query) |
+| [2107-find-unique-binary-string](https://github.com/nakul30/hello-world/tree/master/2107-find-unique-binary-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nakul30/hello-world/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nakul30/hello-world/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -155,6 +157,7 @@ My first repository
 | [0952-word-subsets](https://github.com/nakul30/hello-world/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/nakul30/hello-world/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nakul30/hello-world/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/nakul30/hello-world/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nakul30/hello-world/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nakul30/hello-world/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nakul30/hello-world/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -289,6 +292,7 @@ My first repository
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nakul30/hello-world/tree/master/0494-target-sum) |
+| [2107-find-unique-binary-string](https://github.com/nakul30/hello-world/tree/master/2107-find-unique-binary-string) |
 ## String Matching
 |  |
 | ------- |
